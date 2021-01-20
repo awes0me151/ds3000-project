@@ -2,6 +2,8 @@
 
 For our DS 3000 (Foundations of Data Science) final project, we decided to analyze rideshare rides such as Uber and Lyft in the Boston area. Currently, when we use an app like Uber or Lyft, we simply input our current location and a destination, resulting in a price we pay if we choose to accept the ride. However, we believed that other non-obvious factors may influence a price of a rideshare, such as the weather, time of day, or temperature. We believed that this project is important because depending on our findings, this may allow users to gain a better insight into how a price is calculated, and possibly be able to plan their ride days in advance. Our findings might also tell users the best hours to commute, or whether an Uber or Lyft might be the better option.
 
+![Uber and Lyft](https://miro.medium.com/max/1000/1*OLXiBSIR4zfrwXBI_emrgQ.png)
+
 We used a Jupyter Notebook to execute and display our work. If you want to run this code for yourself, here are some libraries you must install to run the notebook for yourself.
 
 - [ ] pandas
